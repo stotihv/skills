@@ -14,13 +14,15 @@ A collection of Claude Skills for multi-agent coordination, planning, and autono
 
 ## Installation
 
-### Add as Marketplace
+### Claude Code
+
+#### Add as Marketplace
 
 ```bash
 /plugin marketplace add draphonix/skills
 ```
 
-### Install Specific Skills
+#### Install Specific Skills
 
 ```bash
 /plugin install issue-resolution@kuckit
@@ -30,10 +32,24 @@ A collection of Claude Skills for multi-agent coordination, planning, and autono
 /plugin install knowledge@kuckit
 ```
 
-### Direct Installation
+#### Direct Installation
 
 ```bash
 claude plugin add github:draphonix/skills
+```
+
+### Amp
+
+```bash
+# Install all skills from the repo
+amp skill add draphonix/skills
+
+# Install a specific skill
+amp skill add draphonix/skills/issue-resolution
+amp skill add draphonix/skills/planning
+amp skill add draphonix/skills/orchestrator
+amp skill add draphonix/skills/worker
+amp skill add draphonix/skills/knowledge
 ```
 
 ## Skill Workflow
