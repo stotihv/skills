@@ -1,0 +1,30 @@
+{
+  "tools": [
+    {
+      "id": "ask_user",
+      "name": "ask_user",
+      "description": "Display a question with numbered options for user selection",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "description": "The question or decision point"
+          },
+          "options": {
+            "type": "array",
+            "description": "2-20 options. Each: string or {label, description}",
+            "minItems": 2,
+            "maxItems": 20
+          },
+          "context": {
+            "type": "string",
+            "description": "Optional brief context"
+          }
+        },
+        "required": ["question", "options"]
+      },
+      "execute": "TOOLBOX_ACTION=execute bun /Users/themrb/.config/amp/tools/ask_user.ts"
+    }
+  ]
+}
